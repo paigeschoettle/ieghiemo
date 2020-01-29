@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rietieche.ououe.com/sitemap.xml
